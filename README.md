@@ -2,6 +2,13 @@
 Backend Developer | Python
 AI/ML Enthusiast
 
+
+## Socials 
+Email- raja295kumar@gmail.com
+
+## Tech stack
+
+![python](https://img.shields.io/badge/Python-blue)
 <!--
 **raja-0008/raja-0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
