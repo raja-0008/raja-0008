@@ -8,7 +8,7 @@ Email- raja295kumar@gmail.com
 
 ## Tech stack
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 <!--
 **raja-0008/raja-0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
