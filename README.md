@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Raja kumar
+Backend Developer | Python
+AI/ML Enthusiast
 
 <!--
 **raja-0008/raja-0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
